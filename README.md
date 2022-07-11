@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**abidoyeIbukun/abidoyeIbukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ibukun from Nigeria and i'm into web development. 
+I'm currently working on building my skills.
+I really keen on learning and i'm currently learning JavaScript.
+I'm very open to work with anyone and i'm also in need of an intership.
+I hope to become one of the best in the next few years.
 
-Here are some ideas to get you started:
+### Hi there 👋, Ibukun
+#### Frontend web developer
+![Frontend web developer](download.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on building my skills.
+I really keen on learning and i'm currently learning JavaScript.
+I'm very open to work with anyone and i'm also in need of an intership.
+
+Skills: / HTML / CSS / JavaScript
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abidoyeIbukun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@only_omopastor)  
